@@ -114,11 +114,11 @@ $ git log --author="aweb" --oneline --shortstat
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awebbarouni&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=awebbarouni&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awebbarouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&layout=compact" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awebbarouni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="top langs"/>
 
 </div>
 
