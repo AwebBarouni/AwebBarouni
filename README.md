@@ -1,24 +1,145 @@
-<h3 align="center">A passionate engineering student from Tunisia</h3>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awebbarouni&label=Profile%20views&color=0e75b6&style=flat" alt="awebbarouni" /> </p>
+# Aweb Barouni
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awebbarouni" alt="awebbarouni" /></a> </p>
+#### `Computer Engineering Student` · `Full-Stack Developer` · `Photographer`
 
-- 🔭 I’m currently working on **kanban Project**
+<img src="https://img.shields.io/badge/-Turning%20complex%20ideas%20into%20real%20products-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
-- 📫 How to reach me **aweb.barouni@enicar.ucar.tn**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/awebbarouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awebbarouni" height="30" width="40" /></a>
-<a href="https://instagram.com/awebarouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awebarouni" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=awebbarouni&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/aweb-barouni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/awebbarouni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/awebarouni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:awebbarouni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awebbarouni&show_icons=true&locale=en&layout=compact" alt="awebbarouni" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awebbarouni&show_icons=true&locale=en" alt="awebbarouni" /></p>
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awebbarouni&" alt="awebbarouni" /></p>
+```ts
+const aweb = {
+  role:      "2nd Year Computer Engineering @ ENICarthage 🇹🇳",
+  focus:     ["Full-Stack Development", "AI & Data Science", "Clean Architecture"],
+  loves:     ["Building real products", "Open Source", "Photography 📸"],
+  certified: ["CCNA 2", "DataCamp Data Scientist", "NVIDIA Deep Learning"],
+  motto:     "Transform complex ideas into real products.",
+};
+```
+
+- 🤖 Passionate about **web development & AI** — always building something.
+- 📸 Professional photographer with **10+ years** of experience.
+- 🎖️ Media Chief @ **BIL Club** · Member @ **Junior Enterprise**.
+- 💬 Ask me about **React, Spring Boot, Docker & Python**.
+
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,java,php,c,cpp&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="backend"/></a>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI / Data</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn" height="28"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps & Tools</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
+
+<!-- ====================== PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+```bash
+$ git log --author="aweb" --oneline --shortstat
+★  kanban-app          full-featured project management board (WIP)
+★  cartha-visit        company visit management system — Spring Boot
+★  log-server          containerized log monitoring stack — Docker + Graylog
+★  mobile-rt-app       real-time Android app — Spring Boot + WebSockets
+★  ta-locator          car rental management — Java + JavaFX
+```
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## 🎖️ Certifications
+
+```yaml
+- CCNA 2: Switching, Routing & Wireless Essentials       May 2026
+- Associate Data Scientist                  DataCamp     May 2026
+- Computer Vision App with Azure            Microsoft    Feb 2026
+- Fundamentals of Deep Learning             NVIDIA       Feb 2026
+```
+
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awebbarouni&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awebbarouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&layout=compact" alt="top langs"/>
+
+</div>
+
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+
+If you like my work, drop a ⭐ — it means a lot!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+
+</div>
